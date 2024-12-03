@@ -40,7 +40,7 @@ const questions = [
     question_text: "What is the command you use in terminal to bring a github repository onto your own system?",
     question_type: "multiple_choice",
     options: ["git add", "git clone", "git pull", "git smash"],
-    correct_option: [1],
+    correct_option: 1,
     correct_explanation: "Once the URL from github has been copied, git clone is typed into the terminal followed by the copied URL. This allows you to create and store your own local repository"
   },
   
@@ -48,7 +48,7 @@ const questions = [
     question_text: "What is the command you use in terminal to bring a github repository onto your own system?",
     question_type: "multiple_choice",
     options: ["git add", "git clone", "git pull", "git smash"],
-    correct_option: [1],
+    correct_option: 1,
     correct_explanation: "Once the URL from github has been copied, git clone is typed into the terminal followed by the copied URL. This allows you to create and store your own local repository"
   },
 
@@ -56,7 +56,7 @@ const questions = [
     question_text: "What is the command you use in terminal to bring a github repository onto your own system?",
     question_type: "multiple_choice",
     options: ["git add", "git clone", "git pull", "git smash"],
-    correct_option: [1],
+    correct_option: 1,
     correct_explanation: "Once the URL from github has been copied, git clone is typed into the terminal followed by the copied URL. This allows you to create and store your own local repository"
   },
 
@@ -64,7 +64,7 @@ const questions = [
     question_text: "What is the command you use in terminal to bring a github repository onto your own system?",
     question_type: "multiple_choice",
     options: ["git add", "git clone", "git pull", "git smash"],
-    correct_option: [1],
+    correct_option: 1,
     correct_explanation: "Once the URL from github has been copied, git clone is typed into the terminal followed by the copied URL. This allows you to create and store your own local repository"
   },
 
@@ -72,7 +72,7 @@ const questions = [
     question_text: "What is the command you use in terminal to bring a github repository onto your own system?",
     question_type: "multiple_choice",
     options: ["git add", "git clone", "git pull", "git smash"],
-    correct_option: [1],
+    correct_option: 1,
     correct_explanation: "Once the URL from github has been copied, git clone is typed into the terminal followed by the copied URL. This allows you to create and store your own local repository"
   },
 
@@ -80,7 +80,7 @@ const questions = [
     question_text: "What is the command you use in terminal to bring a github repository onto your own system?",
     question_type: "multiple_choice",
     options: ["git add", "git clone", "git pull", "git smash"],
-    correct_option: [1],
+    correct_option: 1,
     correct_explanation: "Once the URL from github has been copied, git clone is typed into the terminal followed by the copied URL. This allows you to create and store your own local repository"
   },
 
@@ -88,7 +88,7 @@ const questions = [
     question_text: "What is the command you use in terminal to bring a github repository onto your own system?",
     question_type: "multiple_choice",
     options: ["git add", "git clone", "git pull", "git smash"],
-    correct_option: [1],
+    correct_option: 1,
     correct_explanation: "Once the URL from github has been copied, git clone is typed into the terminal followed by the copied URL. This allows you to create and store your own local repository"
   },
 
@@ -96,7 +96,7 @@ const questions = [
     question_text: "What is the command you use in terminal to bring a github repository onto your own system?",
     question_type: "multiple_choice",
     options: ["git add", "git clone", "git pull", "git smash"],
-    correct_option: [1],
+    correct_option: 1,
     correct_explanation: "Once the URL from github has been copied, git clone is typed into the terminal followed by the copied URL. This allows you to create and store your own local repository"
   },
 
@@ -104,7 +104,7 @@ const questions = [
     question_text: "What is the command you use in terminal to bring a github repository onto your own system?",
     question_type: "multiple_choice",
     options: ["git add", "git clone", "git pull", "git smash"],
-    correct_option: [1],
+    correct_option: 1,
     correct_explanation: "Once the URL from github has been copied, git clone is typed into the terminal followed by the copied URL. This allows you to create and store your own local repository"
   },
 
@@ -112,7 +112,7 @@ const questions = [
     question_text: "What is the command you use in terminal to bring a github repository onto your own system?",
     question_type: "multiple_choice",
     options: ["git add", "git clone", "git pull", "git smash"],
-    correct_option: [1],
+    correct_option: 1,
     correct_explanation: "Once the URL from github has been copied, git clone is typed into the terminal followed by the copied URL. This allows you to create and store your own local repository"
   },
   // Add your questions here
