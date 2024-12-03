@@ -55,9 +55,9 @@ const questions = [
   {
     question_text: "What does GAN stand for?",
     question_type: "multiple_choice",
-    options: ["Generative Adversarial Network", "Good At Networking", "Glad And Naked", "Good At Numbers"],
+    options: ["Generative Adversarial Network", "Good At Networking", "Git And Neurons", "Good At Numbers"],
     correct_option: 0,
-    correct_explanation: "GAN's are 'Generative Adversarial Network's made up of two neural networks"
+    correct_explanation: "GAN's are 'Generative Adversarial Networks' made up of two neural networks: generators and discriminators"
   },
 
   {
