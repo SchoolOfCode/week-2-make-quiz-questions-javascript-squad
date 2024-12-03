@@ -45,75 +45,75 @@ const questions = [
   },
   
   {
-    question_text: "What is the command you use in terminal to bring a github repository onto your own system?",
+    question_text: "What does MVP stand for?",
     question_type: "multiple_choice",
-    options: ["git add", "git clone", "git pull", "git smash"],
-    correct_option: 1,
-    correct_explanation: "Once the URL from github has been copied, git clone is typed into the terminal followed by the copied URL. This allows you to create and store your own local repository"
+    options: ["Most Voted Player", "Missing Variable Please", "Most Viable Product", "Minimum Viable Product"],
+    correct_option: 3,
+    correct_explanation: "MVP - Minimum Viable Product"
   },
 
   {
-    question_text: "What is the command you use in terminal to bring a github repository onto your own system?",
+    question_text: "What does GAN stand for?",
     question_type: "multiple_choice",
-    options: ["git add", "git clone", "git pull", "git smash"],
-    correct_option: 1,
-    correct_explanation: "Once the URL from github has been copied, git clone is typed into the terminal followed by the copied URL. This allows you to create and store your own local repository"
+    options: ["Generative Adversarial Network", "Good At Networking", "Glad And Naked", "Good At Numbers"],
+    correct_option: 0,
+    correct_explanation: "GAN's are 'Generative Adversarial Network's made up of two neural networks"
   },
 
   {
-    question_text: "What is the command you use in terminal to bring a github repository onto your own system?",
+    question_text: "Select an element of computational thinking",
     question_type: "multiple_choice",
-    options: ["git add", "git clone", "git pull", "git smash"],
+    options: ["Growth mindset", "Understand the problem", "Panicking", "Talk to a colleague"],
     correct_option: 1,
-    correct_explanation: "Once the URL from github has been copied, git clone is typed into the terminal followed by the copied URL. This allows you to create and store your own local repository"
+    correct_explanation: "Understanding the problem is a crucial step in computational thinking, break it down, look for patterns, followed by abstracting away then writing an algorithm"
   },
 
   {
-    question_text: "What is the command you use in terminal to bring a github repository onto your own system?",
+    question_text: "What does the H stand for in C.H.R.I.S?",
     question_type: "multiple_choice",
-    options: ["git add", "git clone", "git pull", "git smash"],
-    correct_option: 1,
-    correct_explanation: "Once the URL from github has been copied, git clone is typed into the terminal followed by the copied URL. This allows you to create and store your own local repository"
+    options: ["Hairy", "Humour", "Hangry", "Hunger"],
+    correct_option: 3,
+    correct_explanation: "Challenge, Hunger, Retrieval, Interleaved practice, Spaced repetition"
   },
 
   {
-    question_text: "What is the command you use in terminal to bring a github repository onto your own system?",
+    question_text: "What does M stand for in M.E.A.H?",
     question_type: "multiple_choice",
-    options: ["git add", "git clone", "git pull", "git smash"],
-    correct_option: 1,
-    correct_explanation: "Once the URL from github has been copied, git clone is typed into the terminal followed by the copied URL. This allows you to create and store your own local repository"
+    options: ["Meaning", "Master", "Maestro", "Multiplier"],
+    correct_option: 0,
+    correct_explanation: "Meaning, Environemnt, Attention and Health"
   },
 
   {
-    question_text: "What is the command you use in terminal to bring a github repository onto your own system?",
+    question_text: "What is 'Rubber Ducking'?",
     question_type: "multiple_choice",
-    options: ["git add", "git clone", "git pull", "git smash"],
-    correct_option: 1,
-    correct_explanation: "Once the URL from github has been copied, git clone is typed into the terminal followed by the copied URL. This allows you to create and store your own local repository"
+    options: ["Screaming at your laptop", "Screaming at co-worker", "Articulating your problem out loud", "Throwing rubber ducks at the wall"],
+    correct_option: 2,
+    correct_explanation: "Explaining and articulating your problem out loud, to a duck for example helps breakdown and understand the problem"
   },
 
   {
-    question_text: "What is the command you use in terminal to bring a github repository onto your own system?",
+    question_text: "What is the command in git to switch to a different branch?",
     question_type: "multiple_choice",
-    options: ["git add", "git clone", "git pull", "git smash"],
-    correct_option: 1,
-    correct_explanation: "Once the URL from github has been copied, git clone is typed into the terminal followed by the copied URL. This allows you to create and store your own local repository"
+    options: ["git branch", "git push", "git checkout", "git add"],
+    correct_option: 2,
+    correct_explanation: "git checkout is the command that allows you to switch between branches"
   },
 
   {
-    question_text: "What is the command you use in terminal to bring a github repository onto your own system?",
+    question_text: "What is a benefit of pair programming?",
     question_type: "multiple_choice",
-    options: ["git add", "git clone", "git pull", "git smash"],
-    correct_option: 1,
-    correct_explanation: "Once the URL from github has been copied, git clone is typed into the terminal followed by the copied URL. This allows you to create and store your own local repository"
+    options: ["Someone can make you a cup of tea", "Being able to blame someone", "A shoulder to cry on", "Live feedback"],
+    correct_option: 3,
+    correct_explanation: "Live feedback is a benefit of pair programming as it allows you to instantly share feedback"
   },
 
   {
-    question_text: "What is the command you use in terminal to bring a github repository onto your own system?",
+    question_text: "An elevator pitch is...",
     question_type: "multiple_choice",
-    options: ["git add", "git clone", "git pull", "git smash"],
-    correct_option: 1,
-    correct_explanation: "Once the URL from github has been copied, git clone is typed into the terminal followed by the copied URL. This allows you to create and store your own local repository"
+    options: ["A 60 second intro about yourself", "A short introduction about lifts", "Cornering a hiring manager in an elevator", "Changing the audio pitch in an elevator"],
+    correct_option: 0,
+    correct_explanation: "A 60 second intro should hook the listener in the first 10 seconds and it's your chance to be memorable"
   },
   // Add your questions here
 ];
